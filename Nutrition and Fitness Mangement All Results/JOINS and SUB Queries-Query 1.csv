@@ -1,0 +1,201 @@
+user_name,suggestion_type,suggestion_date,item_name,exercise_name
+SachinTendulkar,meal,01-05-2022,Chicken Breast,Walking
+SachinTendulkar,exercise,01-05-2022,Broccoli,Running
+SachinTendulkar,meal,02-05-2022,Brown Rice,Jogging
+ViratKohli,exercise,15-05-2022,Salmon,Aerobics
+ViratKohli,meal,15-05-2022,Quinoa,Yoga
+RickyPonting,exercise,01-05-2022,Banana,Pilates
+RickyPonting,meal,01-05-2022,Almonds,Stretching
+RickyPonting,exercise,02-05-2022,Egg,Weightlifting
+SteveSmith,meal,15-05-2022,Greek Yogurt,Swimming
+SteveSmith,exercise,15-05-2022,Sweet Potato,Cycling
+JoeRoot,meal,01-05-2022,Spinach,Dancing
+JoeRoot,exercise,01-05-2022,Oatmeal,Golf
+JoeRoot,meal,02-05-2022,Cottage Cheese,Gardening
+KaneWilliamson,exercise,15-05-2022,Apple,Hiking
+KaneWilliamson,meal,15-05-2022,Whole Wheat Bread,Jumping Rope
+RohitSharma,exercise,01-05-2022,Avocado,Martial Arts
+RohitSharma,meal,01-05-2022,Walnuts,Rock Climbing
+RohitSharma,exercise,02-05-2022,Peanut Butter,Rowing
+DavidWarner,meal,15-05-2022,Blueberries,Skiing
+DavidWarner,exercise,15-05-2022,Almond Milk,Snowboarding
+BabarAzam,meal,01-05-2022,Tofu,Squash
+BabarAzam,exercise,01-05-2022,Black Beans,Surfing
+BabarAzam,meal,02-05-2022,Lentils,Table Tennis
+QuintonDeKock,exercise,15-05-2022,Carrots,Tennis
+QuintonDeKock,meal,15-05-2022,Bell Peppers,Volleyball
+FafDuPlessis,exercise,01-05-2022,Garlic,Water Aerobics
+FafDuPlessis,meal,01-05-2022,Chickpeas,Zumba
+FafDuPlessis,exercise,02-05-2022,Tomatoes,Kickboxing
+RossTaylor,meal,15-05-2022,Mushrooms,Boxing
+RossTaylor,exercise,15-05-2022,Onions,Jumping Jacks
+JosButtler,meal,01-05-2022,Zucchini,Sprinting
+JosButtler,exercise,01-05-2022,Cucumber,Stair Climbing
+JosButtler,meal,02-05-2022,Kale,Spinning
+EoinMorgan,exercise,15-05-2022,Asparagus,Elliptical
+EoinMorgan,meal,15-05-2022,Cabbage,CrossFit
+JonnyBairstow,exercise,01-05-2022,Raspberries,Circuit Training
+ABDeVilliers,meal,01-05-2022,Chicken Breast,Walking
+ABDeVilliers,exercise,01-05-2022,Broccoli,Running
+ABDeVilliers,meal,02-05-2022,Brown Rice,Jogging
+EllysePerry,exercise,15-05-2022,Salmon,Aerobics
+EllysePerry,meal,15-05-2022,Quinoa,Yoga
+MegLanning,exercise,01-05-2022,Banana,Pilates
+MegLanning,meal,01-05-2022,Almonds,Stretching
+MegLanning,exercise,02-05-2022,Egg,Weightlifting
+MithaliRaj,meal,15-05-2022,Greek Yogurt,Swimming
+MithaliRaj,exercise,15-05-2022,Sweet Potato,Cycling
+SmritiMandhana,meal,01-05-2022,Spinach,Dancing
+SmritiMandhana,exercise,01-05-2022,Oatmeal,Golf
+SmritiMandhana,meal,02-05-2022,Cottage Cheese,Gardening
+SuzieBates,exercise,15-05-2022,Apple,Hiking
+SuzieBates,meal,15-05-2022,Whole Wheat Bread,Jumping Rope
+HeatherKnight,exercise,01-05-2022,Avocado,Martial Arts
+HeatherKnight,meal,01-05-2022,Walnuts,Rock Climbing
+HeatherKnight,exercise,02-05-2022,Peanut Butter,Rowing
+StafanieTaylor,meal,15-05-2022,Blueberries,Skiing
+StafanieTaylor,exercise,15-05-2022,Almond Milk,Snowboarding
+SophieDevine,meal,01-05-2022,Tofu,Squash
+SophieDevine,exercise,01-05-2022,Black Beans,Surfing
+SophieDevine,meal,02-05-2022,Lentils,Table Tennis
+DaneVanNiekerk,exercise,15-05-2022,Carrots,Tennis
+DaneVanNiekerk,meal,15-05-2022,Bell Peppers,Volleyball
+AlyssaHealy,exercise,01-05-2022,Garlic,Water Aerobics
+AlyssaHealy,meal,01-05-2022,Chickpeas,Zumba
+AlyssaHealy,exercise,02-05-2022,Tomatoes,Kickboxing
+DeandraDottin,meal,15-05-2022,Mushrooms,Boxing
+DeandraDottin,exercise,15-05-2022,Onions,Jumping Jacks
+HarmanpreetKaur,meal,01-05-2022,Zucchini,Sprinting
+HarmanpreetKaur,exercise,01-05-2022,Cucumber,Stair Climbing
+HarmanpreetKaur,meal,02-05-2022,Kale,Spinning
+JhulanGoswami,exercise,15-05-2022,Asparagus,Elliptical
+JhulanGoswami,meal,15-05-2022,Cabbage,CrossFit
+AmySatterthwaite,exercise,01-05-2022,Raspberries,Circuit Training
+NatalieSciver,meal,01-05-2022,Chicken Breast,Walking
+NatalieSciver,exercise,01-05-2022,Broccoli,Running
+NatalieSciver,meal,02-05-2022,Brown Rice,Jogging
+SarahTaylor,exercise,15-05-2022,Salmon,Aerobics
+SarahTaylor,meal,15-05-2022,Quinoa,Yoga
+ShabnimIsmail,exercise,01-05-2022,Banana,Pilates
+ShabnimIsmail,meal,01-05-2022,Almonds,Stretching
+ShabnimIsmail,exercise,02-05-2022,Egg,Weightlifting
+MarizanneKapp,meal,15-05-2022,Greek Yogurt,Swimming
+MarizanneKapp,exercise,15-05-2022,Sweet Potato,Cycling
+SuneLuus,meal,01-05-2022,Spinach,Dancing
+SuneLuus,exercise,01-05-2022,Oatmeal,Golf
+SuneLuus,meal,02-05-2022,Cottage Cheese,Gardening
+AnyaShrubsole,exercise,15-05-2022,Apple,Hiking
+AnyaShrubsole,meal,15-05-2022,Whole Wheat Bread,Jumping Rope
+ChamariAtapattu,exercise,01-05-2022,Avocado,Martial Arts
+ChamariAtapattu,meal,01-05-2022,Walnuts,Rock Climbing
+ChamariAtapattu,exercise,02-05-2022,Peanut Butter,Rowing
+RumanaAhmed,meal,15-05-2022,Blueberries,Skiing
+RumanaAhmed,exercise,15-05-2022,Almond Milk,Snowboarding
+NidaDar,meal,01-05-2022,Tofu,Squash
+NidaDar,exercise,01-05-2022,Black Beans,Surfing
+NidaDar,meal,02-05-2022,Lentils,Table Tennis
+ShashikalaSiriwardene,exercise,15-05-2022,Carrots,Tennis
+ShashikalaSiriwardene,meal,15-05-2022,Bell Peppers,Volleyball
+LauraWolvaardt,exercise,01-05-2022,Garlic,Water Aerobics
+LauraWolvaardt,meal,01-05-2022,Chickpeas,Zumba
+LauraWolvaardt,exercise,02-05-2022,Tomatoes,Kickboxing
+AnamAmin,meal,15-05-2022,Mushrooms,Boxing
+AnamAmin,exercise,15-05-2022,Onions,Jumping Jacks
+NatalieTibballs,meal,01-05-2022,Zucchini,Sprinting
+NatalieTibballs,exercise,01-05-2022,Cucumber,Stair Climbing
+NatalieTibballs,meal,02-05-2022,Kale,Spinning
+KatherineBrunt,exercise,15-05-2022,Asparagus,Elliptical
+KatherineBrunt,meal,15-05-2022,Cabbage,CrossFit
+BismahMaroof,exercise,01-05-2022,Raspberries,Circuit Training
+SachinTendulkar,meal,03-05-2022,Chicken Breast,Walking
+SachinTendulkar,exercise,03-05-2022,Broccoli,Running
+ViratKohli,meal,07-05-2022,Brown Rice,Jogging
+ViratKohli,exercise,07-05-2022,Salmon,Aerobics
+RickyPonting,meal,09-05-2022,Quinoa,Yoga
+RickyPonting,exercise,09-05-2022,Banana,Pilates
+SteveSmith,meal,12-05-2022,Almonds,Stretching
+SteveSmith,exercise,12-05-2022,Egg,Weightlifting
+JoeRoot,meal,16-05-2022,Greek Yogurt,Swimming
+JoeRoot,exercise,16-05-2022,Sweet Potato,Cycling
+KaneWilliamson,meal,20-05-2022,Spinach,Dancing
+KaneWilliamson,exercise,20-05-2022,Oatmeal,Golf
+RohitSharma,meal,24-05-2022,Cottage Cheese,Gardening
+RohitSharma,exercise,24-05-2022,Apple,Hiking
+DavidWarner,meal,25-05-2022,Whole Wheat Bread,Jumping Rope
+DavidWarner,exercise,25-05-2022,Avocado,Martial Arts
+BabarAzam,meal,27-05-2022,Walnuts,Rock Climbing
+BabarAzam,exercise,27-05-2022,Peanut Butter,Rowing
+QuintonDeKock,meal,30-05-2022,Blueberries,Skiing
+QuintonDeKock,exercise,30-05-2022,Almond Milk,Snowboarding
+FafDuPlessis,meal,05-05-2022,Tofu,Squash
+FafDuPlessis,exercise,05-05-2022,Black Beans,Surfing
+RossTaylor,meal,10-05-2022,Lentils,Table Tennis
+RossTaylor,exercise,10-05-2022,Carrots,Tennis
+JosButtler,meal,14-05-2022,Bell Peppers,Volleyball
+JosButtler,exercise,14-05-2022,Garlic,Water Aerobics
+EoinMorgan,meal,18-05-2022,Chickpeas,Zumba
+EoinMorgan,exercise,18-05-2022,Tomatoes,Kickboxing
+JonnyBairstow,meal,22-05-2022,Mushrooms,Boxing
+JonnyBairstow,exercise,22-05-2022,Onions,Jumping Jacks
+ShikharDhawan,meal,04-05-2022,Chicken Breast,Walking
+ShikharDhawan,exercise,04-05-2022,Broccoli,Running
+AaronFinch,meal,08-05-2022,Brown Rice,Jogging
+AaronFinch,exercise,08-05-2022,Salmon,Aerobics
+MartinGuptill,meal,11-05-2022,Quinoa,Yoga
+MartinGuptill,exercise,11-05-2022,Banana,Pilates
+ShimronHetmyer,meal,13-05-2022,Almonds,Stretching
+ShimronHetmyer,exercise,13-05-2022,Egg,Weightlifting
+JasonRoy,meal,17-05-2022,Greek Yogurt,Swimming
+JasonRoy,exercise,17-05-2022,Sweet Potato,Cycling
+ChrisGayle,meal,19-05-2022,Spinach,Dancing
+ChrisGayle,exercise,19-05-2022,Oatmeal,Golf
+BrendonMcCullum,meal,23-05-2022,Cottage Cheese,Gardening
+BrendonMcCullum,exercise,23-05-2022,Apple,Hiking
+ABDeVilliers,meal,26-05-2022,Whole Wheat Bread,Jumping Rope
+ABDeVilliers,exercise,26-05-2022,Avocado,Martial Arts
+EllysePerry,meal,28-05-2022,Walnuts,Rock Climbing
+EllysePerry,exercise,28-05-2022,Peanut Butter,Rowing
+MegLanning,meal,29-05-2022,Blueberries,Skiing
+MegLanning,exercise,29-05-2022,Almond Milk,Snowboarding
+MithaliRaj,meal,06-05-2022,Tofu,Squash
+MithaliRaj,exercise,06-05-2022,Black Beans,Surfing
+SmritiMandhana,meal,09-05-2022,Lentils,Table Tennis
+SmritiMandhana,exercise,09-05-2022,Carrots,Tennis
+SuzieBates,meal,12-05-2022,Bell Peppers,Volleyball
+SuzieBates,exercise,12-05-2022,Garlic,Water Aerobics
+HeatherKnight,meal,16-05-2022,Chickpeas,Zumba
+HeatherKnight,exercise,16-05-2022,Tomatoes,Kickboxing
+StafanieTaylor,meal,21-05-2022,Mushrooms,Boxing
+StafanieTaylor,exercise,21-05-2022,Onions,Jumping Jacks
+SophieDevine,meal,03-05-2022,Zucchini,Sprinting
+SophieDevine,exercise,03-05-2022,Cucumber,Stair Climbing
+DaneVanNiekerk,meal,07-05-2022,Kale,Spinning
+DaneVanNiekerk,exercise,07-05-2022,Asparagus,Elliptical
+AlyssaHealy,meal,10-05-2022,Cabbage,CrossFit
+AlyssaHealy,exercise,10-05-2022,Raspberries,Circuit Training
+DeandraDottin,meal,14-05-2022,Chicken Breast,Walking
+DeandraDottin,exercise,14-05-2022,Broccoli,Running
+HarmanpreetKaur,meal,18-05-2022,Brown Rice,Jogging
+HarmanpreetKaur,exercise,18-05-2022,Salmon,Aerobics
+JhulanGoswami,meal,22-05-2022,Quinoa,Yoga
+JhulanGoswami,exercise,22-05-2022,Banana,Pilates
+AmySatterthwaite,meal,25-05-2022,Almonds,Stretching
+AmySatterthwaite,exercise,25-05-2022,Egg,Weightlifting
+NatalieSciver,meal,27-05-2022,Greek Yogurt,Swimming
+NatalieSciver,exercise,27-05-2022,Sweet Potato,Cycling
+SarahTaylor,meal,30-05-2022,Spinach,Dancing
+SarahTaylor,exercise,30-05-2022,Oatmeal,Golf
+ShabnimIsmail,meal,02-05-2022,Cottage Cheese,Gardening
+ShabnimIsmail,exercise,02-05-2022,Apple,Hiking
+MarizanneKapp,meal,05-05-2022,Whole Wheat Bread,Jumping Rope
+MarizanneKapp,exercise,05-05-2022,Avocado,Martial Arts
+SuneLuus,meal,20-05-2022,Walnuts,Rock Climbing
+SuneLuus,exercise,20-05-2022,Peanut Butter,Rowing
+AnyaShrubsole,meal,24-05-2022,Blueberries,Skiing
+AnyaShrubsole,exercise,24-05-2022,Almond Milk,Snowboarding
+ChamariAtapattu,meal,31-05-2022,Tofu,Squash
+ChamariAtapattu,exercise,31-05-2022,Black Beans,Surfing
+RumanaAhmed,meal,01-05-2022,Lentils,Table Tennis
+RumanaAhmed,exercise,01-05-2022,Carrots,Tennis
+NidaDar,meal,15-05-2022,Bell Peppers,Volleyball
+NidaDar,exercise,15-05-2022,Garlic,Water Aerobics

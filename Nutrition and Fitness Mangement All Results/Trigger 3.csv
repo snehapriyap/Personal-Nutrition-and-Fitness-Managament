@@ -1,0 +1,3 @@
+audit_id,accomplishment_id,user_id,accomplishment_title,accomplishment_description,accomplishment_date,insert_date
+1,155,15,"10K Run","Completed a 10K run within an hour",2022-01-15,"2023-05-03 21:26:33"
+2,156,15,"Weight Loss","Lost 5 kg in a month",2022-02-01,"2023-05-03 21:26:33"

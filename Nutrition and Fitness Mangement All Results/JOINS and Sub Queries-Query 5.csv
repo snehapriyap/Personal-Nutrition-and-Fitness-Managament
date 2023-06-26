@@ -1,0 +1,117 @@
+user_name,place_name,place_address,place_category,visit_date
+SachinTendulkar,"Mama Mia Pizzeria","123 Main St",eatery,2022-01-01
+SachinTendulkar,"Golden Dragon Chinese Restaurant","456 Elm St",eatery,2022-01-15
+SachinTendulkar,"Planet Fitness","789 Oak Ave",fitness_center,2022-02-03
+ViratKohli,"Mama Mia Pizzeria","123 Main St",eatery,2022-02-10
+ViratKohli,"24 Hour Fitness","10 Maple Rd",fitness_center,2022-02-20
+ViratKohli,"Runyon Canyon Park","2000 N Fuller Ave",recreation_area,2022-03-01
+RickyPonting,"Mama Mia Pizzeria","123 Main St",eatery,2022-03-15
+RickyPonting,"Golden Dragon Chinese Restaurant","456 Elm St",eatery,2022-03-22
+RickyPonting,"Planet Fitness","789 Oak Ave",fitness_center,2022-04-01
+SteveSmith,"Mama Mia Pizzeria","123 Main St",eatery,2022-04-10
+SteveSmith,"24 Hour Fitness","10 Maple Rd",fitness_center,2022-04-15
+SteveSmith,"Runyon Canyon Park","2000 N Fuller Ave",recreation_area,2022-04-20
+JoeRoot,"Mama Mia Pizzeria","123 Main St",eatery,2022-05-01
+JoeRoot,"Golden Dragon Chinese Restaurant","456 Elm St",eatery,2022-05-05
+JoeRoot,"Planet Fitness","789 Oak Ave",fitness_center,2022-05-10
+KaneWilliamson,"Mama Mia Pizzeria","123 Main St",eatery,2022-05-15
+KaneWilliamson,"24 Hour Fitness","10 Maple Rd",fitness_center,2022-05-20
+KaneWilliamson,"Runyon Canyon Park","2000 N Fuller Ave",recreation_area,2022-05-25
+RohitSharma,"Mama Mia Pizzeria","123 Main St",eatery,2022-06-01
+RohitSharma,"Golden Dragon Chinese Restaurant","456 Elm St",eatery,2022-06-05
+RohitSharma,"Planet Fitness","789 Oak Ave",fitness_center,2022-06-10
+DavidWarner,"Mama Mia Pizzeria","123 Main St",eatery,2022-06-15
+DavidWarner,"24 Hour Fitness","10 Maple Rd",fitness_center,2022-06-20
+DavidWarner,"Runyon Canyon Park","2000 N Fuller Ave",recreation_area,2022-06-25
+BabarAzam,"Mama Mia Pizzeria","123 Main St",eatery,2022-07-01
+BabarAzam,"Golden Dragon Chinese Restaurant","456 Elm St",eatery,2022-07-05
+BabarAzam,"Planet Fitness","789 Oak Ave",fitness_center,2022-07-10
+QuintonDeKock,"Mama Mia Pizzeria","123 Main St",eatery,2022-07-15
+QuintonDeKock,"24 Hour Fitness","10 Maple Rd",fitness_center,2022-07-20
+QuintonDeKock,"Runyon Canyon Park","2000 N Fuller Ave",recreation_area,2022-07-25
+FafDuPlessis,"Mama Mia Pizzeria","123 Main St",eatery,2022-08-01
+FafDuPlessis,"Golden Dragon Chinese Restaurant","456 Elm St",eatery,2022-08-05
+FafDuPlessis,"Planet Fitness","789 Oak Ave",fitness_center,2022-08-10
+RossTaylor,"Mama Mia Pizzeria","123 Main St",eatery,2022-08-15
+RossTaylor,"24 Hour Fitness","10 Maple Rd",fitness_center,2022-08-20
+RossTaylor,"Runyon Canyon Park","2000 N Fuller Ave",recreation_area,2022-08-25
+JosButtler,"Mama Mia Pizzeria","123 Main St",eatery,2022-09-01
+JosButtler,"Golden Dragon Chinese Restaurant","456 Elm St",eatery,2022-09-05
+JosButtler,"Planet Fitness","789 Oak Ave",fitness_center,2022-09-10
+EoinMorgan,"Mama Mia Pizzeria","123 Main St",eatery,2022-09-15
+EoinMorgan,"24 Hour Fitness","10 Maple Rd",fitness_center,2022-09-20
+EoinMorgan,"Runyon Canyon Park","2000 N Fuller Ave",recreation_area,2022-09-25
+JonnyBairstow,"Mama Mia Pizzeria","123 Main St",eatery,2022-10-01
+JonnyBairstow,"Golden Dragon Chinese Restaurant","456 Elm St",eatery,2022-10-05
+JonnyBairstow,"Planet Fitness","789 Oak Ave",fitness_center,2022-10-10
+ShikharDhawan,NULL,NULL,NULL,NULL
+AaronFinch,NULL,NULL,NULL,NULL
+MartinGuptill,NULL,NULL,NULL,NULL
+ShimronHetmyer,NULL,NULL,NULL,NULL
+JasonRoy,NULL,NULL,NULL,NULL
+ChrisGayle,NULL,NULL,NULL,NULL
+BrendonMcCullum,NULL,NULL,NULL,NULL
+ABDeVilliers,NULL,NULL,NULL,NULL
+EllysePerry,NULL,NULL,NULL,NULL
+MegLanning,NULL,NULL,NULL,NULL
+MithaliRaj,NULL,NULL,NULL,NULL
+SmritiMandhana,NULL,NULL,NULL,NULL
+SuzieBates,NULL,NULL,NULL,NULL
+HeatherKnight,NULL,NULL,NULL,NULL
+StafanieTaylor,NULL,NULL,NULL,NULL
+SophieDevine,NULL,NULL,NULL,NULL
+DaneVanNiekerk,NULL,NULL,NULL,NULL
+AlyssaHealy,NULL,NULL,NULL,NULL
+DeandraDottin,NULL,NULL,NULL,NULL
+HarmanpreetKaur,NULL,NULL,NULL,NULL
+JhulanGoswami,NULL,NULL,NULL,NULL
+AmySatterthwaite,NULL,NULL,NULL,NULL
+NatalieSciver,NULL,NULL,NULL,NULL
+SarahTaylor,NULL,NULL,NULL,NULL
+ShabnimIsmail,NULL,NULL,NULL,NULL
+MarizanneKapp,NULL,NULL,NULL,NULL
+SuneLuus,NULL,NULL,NULL,NULL
+AnyaShrubsole,NULL,NULL,NULL,NULL
+ChamariAtapattu,NULL,NULL,NULL,NULL
+RumanaAhmed,NULL,NULL,NULL,NULL
+NidaDar,NULL,NULL,NULL,NULL
+ShashikalaSiriwardene,NULL,NULL,NULL,NULL
+LauraWolvaardt,NULL,NULL,NULL,NULL
+AnamAmin,NULL,NULL,NULL,NULL
+NatalieTibballs,NULL,NULL,NULL,NULL
+KatherineBrunt,NULL,NULL,NULL,NULL
+BismahMaroof,NULL,NULL,NULL,NULL
+TammyBeaumont,NULL,NULL,NULL,NULL
+KateCross,NULL,NULL,NULL,NULL
+FranWilson,NULL,NULL,NULL,NULL
+DilaniManodara,NULL,NULL,NULL,NULL
+NilakshiDeSilva,NULL,NULL,NULL,NULL
+PoonamYadav,NULL,NULL,NULL,NULL
+DeeptiSharma,NULL,NULL,NULL,NULL
+TaniyaBhatia,NULL,NULL,NULL,NULL
+RajeshwariGayakwad,NULL,NULL,NULL,NULL
+PriyaPunia,NULL,NULL,NULL,NULL
+SophieEcclestone,NULL,NULL,NULL,NULL
+KirstieGordon,NULL,NULL,NULL,NULL
+AliceDavidsonRichards,NULL,NULL,NULL,NULL
+LizelleLee,NULL,NULL,NULL,NULL
+davidmiller,NULL,NULL,NULL,NULL
+msdhoni,NULL,NULL,NULL,NULL
+hardikpandya,NULL,NULL,NULL,NULL
+benstokes,NULL,NULL,NULL,NULL
+ravindrajadeja,NULL,NULL,NULL,NULL
+glennmaxwell,NULL,NULL,NULL,NULL
+kieronpollard,NULL,NULL,NULL,NULL
+andrerussell,NULL,NULL,NULL,NULL
+sunilnarine,NULL,NULL,NULL,NULL
+rashidkhan,NULL,NULL,NULL,NULL
+trentboult,NULL,NULL,NULL,NULL
+jaspritbumrah,NULL,NULL,NULL,NULL
+mitchellstarc,NULL,NULL,NULL,NULL
+jofraarcher,NULL,NULL,NULL,NULL
+kagisorabada,NULL,NULL,NULL,NULL
+patcummins,NULL,NULL,NULL,NULL
+chriswoakes,NULL,NULL,NULL,NULL
+mohammedshami,NULL,NULL,NULL,NULL
+bhuvneshwarkumar,NULL,NULL,NULL,NULL
+yuzvendrachahal,NULL,NULL,NULL,NULL

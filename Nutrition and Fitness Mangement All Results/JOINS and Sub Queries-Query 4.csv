@@ -1,0 +1,135 @@
+user_name,suggestion_date,exercise_name,calories_expended_per_minute
+SachinTendulkar,2022-05-01,Running,10
+SachinTendulkar,2022-05-03,Running,10
+ViratKohli,2022-05-15,Aerobics,6
+ViratKohli,2022-05-07,Aerobics,6
+RickyPonting,2022-05-01,Pilates,3
+RickyPonting,2022-05-02,Weightlifting,4
+RickyPonting,2022-05-09,Pilates,3
+SteveSmith,2022-05-15,Cycling,8
+SteveSmith,2022-05-12,Weightlifting,4
+JoeRoot,2022-05-01,Golf,4.5
+JoeRoot,2022-05-16,Cycling,8
+KaneWilliamson,2022-05-15,Hiking,7
+KaneWilliamson,2022-05-20,Golf,4.5
+RohitSharma,2022-05-01,"Martial Arts",10
+RohitSharma,2022-05-02,Rowing,9
+RohitSharma,2022-05-24,Hiking,7
+DavidWarner,2022-05-15,Snowboarding,6
+DavidWarner,2022-05-25,"Martial Arts",10
+BabarAzam,2022-05-01,Surfing,6
+BabarAzam,2022-05-27,Rowing,9
+QuintonDeKock,2022-05-15,Tennis,8
+QuintonDeKock,2022-05-30,Snowboarding,6
+FafDuPlessis,2022-05-01,"Water Aerobics",5
+FafDuPlessis,2022-05-02,Kickboxing,10
+FafDuPlessis,2022-05-05,Surfing,6
+RossTaylor,2022-05-15,"Jumping Jacks",8
+RossTaylor,2022-05-10,Tennis,8
+JosButtler,2022-05-01,"Stair Climbing",9
+JosButtler,2022-05-14,"Water Aerobics",5
+EoinMorgan,2022-05-15,Elliptical,6
+EoinMorgan,2022-05-18,Kickboxing,10
+JonnyBairstow,2022-05-01,"Circuit Training",8
+JonnyBairstow,2022-05-22,"Jumping Jacks",8
+ShikharDhawan,2022-05-04,Running,10
+AaronFinch,2022-05-08,Aerobics,6
+MartinGuptill,2022-05-11,Pilates,3
+ShimronHetmyer,2022-05-13,Weightlifting,4
+JasonRoy,2022-05-17,Cycling,8
+ChrisGayle,2022-05-19,Golf,4.5
+BrendonMcCullum,2022-05-23,Hiking,7
+ABDeVilliers,2022-05-01,Running,10
+ABDeVilliers,2022-05-26,"Martial Arts",10
+EllysePerry,2022-05-15,Aerobics,6
+EllysePerry,2022-05-28,Rowing,9
+MegLanning,2022-05-01,Pilates,3
+MegLanning,2022-05-02,Weightlifting,4
+MegLanning,2022-05-29,Snowboarding,6
+MithaliRaj,2022-05-15,Cycling,8
+MithaliRaj,2022-05-06,Surfing,6
+SmritiMandhana,2022-05-01,Golf,4.5
+SmritiMandhana,2022-05-09,Tennis,8
+SuzieBates,2022-05-15,Hiking,7
+SuzieBates,2022-05-12,"Water Aerobics",5
+HeatherKnight,2022-05-01,"Martial Arts",10
+HeatherKnight,2022-05-02,Rowing,9
+HeatherKnight,2022-05-16,Kickboxing,10
+StafanieTaylor,2022-05-15,Snowboarding,6
+StafanieTaylor,2022-05-21,"Jumping Jacks",8
+SophieDevine,2022-05-01,Surfing,6
+SophieDevine,2022-05-03,"Stair Climbing",9
+DaneVanNiekerk,2022-05-15,Tennis,8
+DaneVanNiekerk,2022-05-07,Elliptical,6
+AlyssaHealy,2022-05-01,"Water Aerobics",5
+AlyssaHealy,2022-05-02,Kickboxing,10
+AlyssaHealy,2022-05-10,"Circuit Training",8
+DeandraDottin,2022-05-15,"Jumping Jacks",8
+DeandraDottin,2022-05-14,Running,10
+HarmanpreetKaur,2022-05-01,"Stair Climbing",9
+HarmanpreetKaur,2022-05-18,Aerobics,6
+JhulanGoswami,2022-05-15,Elliptical,6
+JhulanGoswami,2022-05-22,Pilates,3
+AmySatterthwaite,2022-05-01,"Circuit Training",8
+AmySatterthwaite,2022-05-25,Weightlifting,4
+NatalieSciver,2022-05-01,Running,10
+NatalieSciver,2022-05-27,Cycling,8
+SarahTaylor,2022-05-15,Aerobics,6
+SarahTaylor,2022-05-30,Golf,4.5
+ShabnimIsmail,2022-05-01,Pilates,3
+ShabnimIsmail,2022-05-02,Weightlifting,4
+ShabnimIsmail,2022-05-02,Hiking,7
+MarizanneKapp,2022-05-15,Cycling,8
+MarizanneKapp,2022-05-05,"Martial Arts",10
+SuneLuus,2022-05-01,Golf,4.5
+SuneLuus,2022-05-20,Rowing,9
+AnyaShrubsole,2022-05-15,Hiking,7
+AnyaShrubsole,2022-05-24,Snowboarding,6
+ChamariAtapattu,2022-05-01,"Martial Arts",10
+ChamariAtapattu,2022-05-02,Rowing,9
+ChamariAtapattu,2022-05-31,Surfing,6
+RumanaAhmed,2022-05-15,Snowboarding,6
+RumanaAhmed,2022-05-01,Tennis,8
+NidaDar,2022-05-01,Surfing,6
+NidaDar,2022-05-15,"Water Aerobics",5
+ShashikalaSiriwardene,2022-05-15,Tennis,8
+LauraWolvaardt,2022-05-01,"Water Aerobics",5
+LauraWolvaardt,2022-05-02,Kickboxing,10
+AnamAmin,2022-05-15,"Jumping Jacks",8
+NatalieTibballs,2022-05-01,"Stair Climbing",9
+KatherineBrunt,2022-05-15,Elliptical,6
+BismahMaroof,2022-05-01,"Circuit Training",8
+TammyBeaumont,NULL,NULL,NULL
+KateCross,NULL,NULL,NULL
+FranWilson,NULL,NULL,NULL
+DilaniManodara,NULL,NULL,NULL
+NilakshiDeSilva,NULL,NULL,NULL
+PoonamYadav,NULL,NULL,NULL
+DeeptiSharma,NULL,NULL,NULL
+TaniyaBhatia,NULL,NULL,NULL
+RajeshwariGayakwad,NULL,NULL,NULL
+PriyaPunia,NULL,NULL,NULL
+SophieEcclestone,NULL,NULL,NULL
+KirstieGordon,NULL,NULL,NULL
+AliceDavidsonRichards,NULL,NULL,NULL
+LizelleLee,NULL,NULL,NULL
+davidmiller,NULL,NULL,NULL
+msdhoni,NULL,NULL,NULL
+hardikpandya,NULL,NULL,NULL
+benstokes,NULL,NULL,NULL
+ravindrajadeja,NULL,NULL,NULL
+glennmaxwell,NULL,NULL,NULL
+kieronpollard,NULL,NULL,NULL
+andrerussell,NULL,NULL,NULL
+sunilnarine,NULL,NULL,NULL
+rashidkhan,NULL,NULL,NULL
+trentboult,NULL,NULL,NULL
+jaspritbumrah,NULL,NULL,NULL
+mitchellstarc,NULL,NULL,NULL
+jofraarcher,NULL,NULL,NULL
+kagisorabada,NULL,NULL,NULL
+patcummins,NULL,NULL,NULL
+chriswoakes,NULL,NULL,NULL
+mohammedshami,NULL,NULL,NULL
+bhuvneshwarkumar,NULL,NULL,NULL
+yuzvendrachahal,NULL,NULL,NULL

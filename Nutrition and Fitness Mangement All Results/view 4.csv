@@ -1,0 +1,101 @@
+user_id,user_name,item_id,item_name,item_calories,item_protein,item_carbs,item_fat,item_fiber,suggestion_date
+1,SachinTendulkar,1,"Chicken Breast",165,31,0,3.6,0,2022-05-01
+1,SachinTendulkar,3,"Brown Rice",216,5,45,1.8,3.5,2022-05-02
+2,ViratKohli,5,Quinoa,222,8,39,3.6,5.2,2022-05-15
+3,RickyPonting,7,Almonds,576,21,22,49,12.2,2022-05-01
+4,SteveSmith,9,"Greek Yogurt",59,10,3.9,0.4,0,2022-05-15
+5,JoeRoot,11,Spinach,23,2.9,3.6,0.4,2.2,2022-05-01
+5,JoeRoot,13,"Cottage Cheese",98,11,3.4,4.3,0,2022-05-02
+6,KaneWilliamson,15,"Whole Wheat Bread",69,3.6,12,1.1,1.9,2022-05-15
+7,RohitSharma,17,Walnuts,654,15,14,65,6.7,2022-05-01
+8,DavidWarner,19,Blueberries,57,0.7,14,0.3,2.4,2022-05-15
+9,BabarAzam,21,Tofu,76,8,1.9,4.8,0.3,2022-05-01
+9,BabarAzam,23,Lentils,116,9,20,0.4,7.9,2022-05-02
+10,QuintonDeKock,25,"Bell Peppers",20,1,5,0.2,1.7,2022-05-15
+11,FafDuPlessis,27,Chickpeas,164,8.9,27,2.6,7.6,2022-05-01
+12,RossTaylor,29,Mushrooms,22,3.1,3.3,0.3,1,2022-05-15
+13,JosButtler,31,Zucchini,17,1.2,3.1,0.3,1,2022-05-01
+13,JosButtler,33,Kale,49,4.3,8.8,0.9,3.6,2022-05-02
+14,EoinMorgan,35,Cabbage,25,1.3,5.8,0.1,2.5,2022-05-15
+23,ABDeVilliers,1,"Chicken Breast",165,31,0,3.6,0,2022-05-01
+23,ABDeVilliers,3,"Brown Rice",216,5,45,1.8,3.5,2022-05-02
+24,EllysePerry,5,Quinoa,222,8,39,3.6,5.2,2022-05-15
+25,MegLanning,7,Almonds,576,21,22,49,12.2,2022-05-01
+26,MithaliRaj,9,"Greek Yogurt",59,10,3.9,0.4,0,2022-05-15
+27,SmritiMandhana,11,Spinach,23,2.9,3.6,0.4,2.2,2022-05-01
+27,SmritiMandhana,13,"Cottage Cheese",98,11,3.4,4.3,0,2022-05-02
+28,SuzieBates,15,"Whole Wheat Bread",69,3.6,12,1.1,1.9,2022-05-15
+29,HeatherKnight,17,Walnuts,654,15,14,65,6.7,2022-05-01
+30,StafanieTaylor,19,Blueberries,57,0.7,14,0.3,2.4,2022-05-15
+31,SophieDevine,21,Tofu,76,8,1.9,4.8,0.3,2022-05-01
+31,SophieDevine,23,Lentils,116,9,20,0.4,7.9,2022-05-02
+32,DaneVanNiekerk,25,"Bell Peppers",20,1,5,0.2,1.7,2022-05-15
+33,AlyssaHealy,27,Chickpeas,164,8.9,27,2.6,7.6,2022-05-01
+34,DeandraDottin,29,Mushrooms,22,3.1,3.3,0.3,1,2022-05-15
+35,HarmanpreetKaur,31,Zucchini,17,1.2,3.1,0.3,1,2022-05-01
+35,HarmanpreetKaur,33,Kale,49,4.3,8.8,0.9,3.6,2022-05-02
+36,JhulanGoswami,35,Cabbage,25,1.3,5.8,0.1,2.5,2022-05-15
+38,NatalieSciver,1,"Chicken Breast",165,31,0,3.6,0,2022-05-01
+38,NatalieSciver,3,"Brown Rice",216,5,45,1.8,3.5,2022-05-02
+39,SarahTaylor,5,Quinoa,222,8,39,3.6,5.2,2022-05-15
+40,ShabnimIsmail,7,Almonds,576,21,22,49,12.2,2022-05-01
+41,MarizanneKapp,9,"Greek Yogurt",59,10,3.9,0.4,0,2022-05-15
+42,SuneLuus,11,Spinach,23,2.9,3.6,0.4,2.2,2022-05-01
+42,SuneLuus,13,"Cottage Cheese",98,11,3.4,4.3,0,2022-05-02
+43,AnyaShrubsole,15,"Whole Wheat Bread",69,3.6,12,1.1,1.9,2022-05-15
+44,ChamariAtapattu,17,Walnuts,654,15,14,65,6.7,2022-05-01
+45,RumanaAhmed,19,Blueberries,57,0.7,14,0.3,2.4,2022-05-15
+46,NidaDar,21,Tofu,76,8,1.9,4.8,0.3,2022-05-01
+46,NidaDar,23,Lentils,116,9,20,0.4,7.9,2022-05-02
+47,ShashikalaSiriwardene,25,"Bell Peppers",20,1,5,0.2,1.7,2022-05-15
+48,LauraWolvaardt,27,Chickpeas,164,8.9,27,2.6,7.6,2022-05-01
+49,AnamAmin,29,Mushrooms,22,3.1,3.3,0.3,1,2022-05-15
+50,NatalieTibballs,31,Zucchini,17,1.2,3.1,0.3,1,2022-05-01
+50,NatalieTibballs,33,Kale,49,4.3,8.8,0.9,3.6,2022-05-02
+51,KatherineBrunt,35,Cabbage,25,1.3,5.8,0.1,2.5,2022-05-15
+1,SachinTendulkar,1,"Chicken Breast",165,31,0,3.6,0,2022-05-03
+2,ViratKohli,3,"Brown Rice",216,5,45,1.8,3.5,2022-05-07
+3,RickyPonting,5,Quinoa,222,8,39,3.6,5.2,2022-05-09
+4,SteveSmith,7,Almonds,576,21,22,49,12.2,2022-05-12
+5,JoeRoot,9,"Greek Yogurt",59,10,3.9,0.4,0,2022-05-16
+6,KaneWilliamson,11,Spinach,23,2.9,3.6,0.4,2.2,2022-05-20
+7,RohitSharma,13,"Cottage Cheese",98,11,3.4,4.3,0,2022-05-24
+8,DavidWarner,15,"Whole Wheat Bread",69,3.6,12,1.1,1.9,2022-05-25
+9,BabarAzam,17,Walnuts,654,15,14,65,6.7,2022-05-27
+10,QuintonDeKock,19,Blueberries,57,0.7,14,0.3,2.4,2022-05-30
+11,FafDuPlessis,21,Tofu,76,8,1.9,4.8,0.3,2022-05-05
+12,RossTaylor,23,Lentils,116,9,20,0.4,7.9,2022-05-10
+13,JosButtler,25,"Bell Peppers",20,1,5,0.2,1.7,2022-05-14
+14,EoinMorgan,27,Chickpeas,164,8.9,27,2.6,7.6,2022-05-18
+15,JonnyBairstow,29,Mushrooms,22,3.1,3.3,0.3,1,2022-05-22
+16,ShikharDhawan,1,"Chicken Breast",165,31,0,3.6,0,2022-05-04
+17,AaronFinch,3,"Brown Rice",216,5,45,1.8,3.5,2022-05-08
+18,MartinGuptill,5,Quinoa,222,8,39,3.6,5.2,2022-05-11
+19,ShimronHetmyer,7,Almonds,576,21,22,49,12.2,2022-05-13
+20,JasonRoy,9,"Greek Yogurt",59,10,3.9,0.4,0,2022-05-17
+21,ChrisGayle,11,Spinach,23,2.9,3.6,0.4,2.2,2022-05-19
+22,BrendonMcCullum,13,"Cottage Cheese",98,11,3.4,4.3,0,2022-05-23
+23,ABDeVilliers,15,"Whole Wheat Bread",69,3.6,12,1.1,1.9,2022-05-26
+24,EllysePerry,17,Walnuts,654,15,14,65,6.7,2022-05-28
+25,MegLanning,19,Blueberries,57,0.7,14,0.3,2.4,2022-05-29
+26,MithaliRaj,21,Tofu,76,8,1.9,4.8,0.3,2022-05-06
+27,SmritiMandhana,23,Lentils,116,9,20,0.4,7.9,2022-05-09
+28,SuzieBates,25,"Bell Peppers",20,1,5,0.2,1.7,2022-05-12
+29,HeatherKnight,27,Chickpeas,164,8.9,27,2.6,7.6,2022-05-16
+30,StafanieTaylor,29,Mushrooms,22,3.1,3.3,0.3,1,2022-05-21
+31,SophieDevine,31,Zucchini,17,1.2,3.1,0.3,1,2022-05-03
+32,DaneVanNiekerk,33,Kale,49,4.3,8.8,0.9,3.6,2022-05-07
+33,AlyssaHealy,35,Cabbage,25,1.3,5.8,0.1,2.5,2022-05-10
+34,DeandraDottin,1,"Chicken Breast",165,31,0,3.6,0,2022-05-14
+35,HarmanpreetKaur,3,"Brown Rice",216,5,45,1.8,3.5,2022-05-18
+36,JhulanGoswami,5,Quinoa,222,8,39,3.6,5.2,2022-05-22
+37,AmySatterthwaite,7,Almonds,576,21,22,49,12.2,2022-05-25
+38,NatalieSciver,9,"Greek Yogurt",59,10,3.9,0.4,0,2022-05-27
+39,SarahTaylor,11,Spinach,23,2.9,3.6,0.4,2.2,2022-05-30
+40,ShabnimIsmail,13,"Cottage Cheese",98,11,3.4,4.3,0,2022-05-02
+41,MarizanneKapp,15,"Whole Wheat Bread",69,3.6,12,1.1,1.9,2022-05-05
+42,SuneLuus,17,Walnuts,654,15,14,65,6.7,2022-05-20
+43,AnyaShrubsole,19,Blueberries,57,0.7,14,0.3,2.4,2022-05-24
+44,ChamariAtapattu,21,Tofu,76,8,1.9,4.8,0.3,2022-05-31
+45,RumanaAhmed,23,Lentils,116,9,20,0.4,7.9,2022-05-01
+46,NidaDar,25,"Bell Peppers",20,1,5,0.2,1.7,2022-05-15
